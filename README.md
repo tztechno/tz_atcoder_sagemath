@@ -6,7 +6,6 @@ https://www.sagemath.org/
 
 https://doc.sagemath.org/html/en/a_tour_of_sage/
 
-SageMathの真価が発揮される例としては以下のようなものが挙げられます。
 
   SymbolicComputation (記号計算)
   方程式の解析的解を求める
